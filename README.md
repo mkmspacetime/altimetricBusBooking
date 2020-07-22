@@ -1,6 +1,6 @@
 # YourBus
 
-YourBus contains spring-boot apis targeted for online bus booking system.
+altimetricbus contains spring-boot apis targeted for online bus booking system.
 The project was run on Eclipse and deployed on Localhost . 
 The api are hit using Postman. 
 
